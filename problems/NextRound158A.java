@@ -17,7 +17,5 @@ public class NextRound158A {
 			while(k>0 && a[k-1] <= 0) k--;
 			System.out.println(k);
 		}
-		
 	}
-
 }
