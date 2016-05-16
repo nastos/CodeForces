@@ -7,7 +7,6 @@ public class PetyaStrings112A {
 		String s2 = s.nextLine().toLowerCase();
 		if (s1.compareTo(s2)>0) System.out.println(1);
 		if (s1.compareTo(s2)<0) System.out.println(-1);
-		if (s1.compareTo(s2)==0) System.out.println(0);
-		
+		if (s1.compareTo(s2)==0) System.out.println(0);	
 	}
 }
